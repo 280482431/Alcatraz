@@ -1,3 +1,5 @@
+专用图片管理工具
+
 ![Alcatraz](http://alcatraz.io/images/header@2x.png)
 
 Alcatraz is an open-source package manager for Xcode 5+. It lets you discover and install plugins, templates and color schemes without the need for manually cloning or copying files. It installs itself as a part of Xcode and it feels like home.
